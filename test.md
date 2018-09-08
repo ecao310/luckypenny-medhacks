@@ -3,7 +3,7 @@
 
 <h1> Register for a new account</h1>
 
-<form action="/woo.php">
+<form action="/woo.html">
   First name:<br>
   <input type="text" name="firstname" value="">
   <br>
