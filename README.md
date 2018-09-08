@@ -1,6 +1,6 @@
 # Welcome to Food Friends with Me
 
-## This service aims to address two important issues in healthcare:
+## This service aims to address three important issues in healthcare:
 
 ### 1. Connecting people with similar dietary interests/restrictions for peer-motivation
 Being the only person in a social setting with a dietary restriction can make mealtimes uncomfortable and stressful. This application will connect people with similar dietary restrictions within a specified geographic radius so they can form communities and eat together.
@@ -8,7 +8,7 @@ Being the only person in a social setting with a dietary restriction can make me
 ### 2. Cultural Relevance
 Consider a Hispanic woman who lives in a town with a predominantly Hispanic population. All her life, she has eaten foods that are related to her culture. However, her physician diagnoses her with a condition (ex. Celic's disease) and she is told to eat foods that she has never eaten before. She is unlikely to be compliant because the foods that are recommended to her are not culturally relevant. By connecting with the local Hispanic population through Food Friends with Me, she can eat foods that are tailored to her culture and follow the prescribed dietary restrictions.
 
-### 3. Providing a way for patients to self-track their health records
+### 3. Providing a way for patients to easily track their dietary habits
 Physicians/nutritionists can help patients create an account with specified dietary restrictions, caloric intake, etc. The application can also make it easy for patients to record food intake so that they can track their dietary habits over an extended period of time.
 
 [TEST](test.md)
