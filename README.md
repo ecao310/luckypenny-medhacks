@@ -13,6 +13,8 @@ Physicians/nutritionists can help patients create an account with specified diet
 
 [TEST](test.md)
 
+![image](yankees.jpg)
+
 <!---
 <iframe src="https://onedrive.live.com/embed?cid=A813A526635E75FF&amp;resid=A813A526635E75FF%212356&amp;authkey=AKKI_70cpSHCI5w&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 --->
