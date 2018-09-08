@@ -4,7 +4,7 @@
 
 <h1>My First Heading</h1>
 
-<marquee><p>My first paragraph.</p> <</marquee>
+<marquee><p>My first paragraph.</p> </marquee>
 
 </body>
 </html>
