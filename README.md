@@ -2,23 +2,16 @@
 
 ## This service aims to address two important issues in healthcare:
 
-### 1. Providing a way for patients to self-track their health records
-What can you do to control your own health? And how can we help you achieve your goals?
+### 1. Connecting people with similar dietary interests/restrictions for peer-motivation
+Being the only person in a social setting with a dietary restriction can make mealtimes uncomfortable and stressful. This application will connect people with similar dietary restrictions within a specified geographic radius so they can form communities and eat together.
 
-Create an account with diet plan and general location
+### 2. Cultural Relevance
+Consider a Hispanic woman who lives in a town with a predominantly Hispanic population. All her life, she has eaten foods that are related to her culture. However, her physician diagnoses her with a condition (ex. Celic's disease) and she is told to eat foods that she has never eaten before. She is unlikely to be compliant because the foods that are recommended to her are not culturally relevant. By connecting with the local Hispanic population through Food Friends with Me, she can eat foods that are tailored to her culture and follow the prescribed dietary restrictions.
 
-Create a checklist food plan
-
-Check off daily goals (e.g. calorie intake, iron intake, etc.) 
-
-Provide and summaries/averages for the last 30 days (or whatever time period) so when the patient goes to the doctor, they can show the physician how their diet is going
-
-Present to doctor later
+### 3. Providing a way for patients to self-track their health records
+Physicians/nutritionists can help patients create an account with specified dietary restrictions, caloric intake, etc. The application can also make it easy for patients to record food intake so that they can track their dietary habits over an extended period of time.
 
 [TEST](test.md)
-
-
-### 2. Connecting people with similar dietary interests for peer-motivation
 
 
 <!---
@@ -58,28 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
---->
 
-
-
-
-<!---
-# Shapely
-
-## About Shapely
-
-Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
-
-Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
-
-This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
-
-## Documentation
-
-Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
-
-## License
-
-This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
-
---->
