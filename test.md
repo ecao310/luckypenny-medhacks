@@ -1,10 +1,25 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1> Register for a new account</h1>
 
-<marquee><p>My first paragraph.</p> </marquee>
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="">
+  <br>
+  Social Security Number:<br>
+  <input type="text" name="SSN" value="">
+  <br>
+  Mother's Maiden Name:<br>
+  <input type="text" name="mom" value="">
+  <br> <br>
+  <input type="submit" value="Submit">
+</form> 
+
+
 
 </body>
 </html>
