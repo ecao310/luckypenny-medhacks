@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Food Friends With Me
 description: YAY MEDHACKS
-title-img: (yankees.jpg)
-title-img: "yankees.jpg"
+![image](yankees.jpg)
